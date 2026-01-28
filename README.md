@@ -62,3 +62,6 @@
 - `pnpm run build` erfolgreich
 - README.md mit Fazit aktualisiert
 ---
+
+## Fazit
+Mike is toll
